@@ -1,0 +1,524 @@
+[
+    {
+        "nombre": "CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+        "fecha": "26 Julio 2025",
+        "link": "https://www.cruzandolameta.es/ver/circuito-de-carreras-populares-diputacion-de-almeria-2025---2287/",
+        "lugar": "Almería (Almería).",
+        "distancia": "Varias.",
+        "hora": "00:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "XI RUTA SENDERISTA ''VELETA TECHO DE DÍLAR''",
+        "fecha": "26 Julio 2025",
+        "link": "https://www.cruzandolameta.es/ver/xi-ruta-senderista-veleta-techo-de-dilar---2334/",
+        "lugar": "Monachil (Granada).",
+        "distancia": "10 o 8 Km.",
+        "hora": "10:00.",
+        "tipo": "CxM."
+    },
+    {
+        "nombre": "10ª CARRERA EL GRUPO S.C.A",
+        "fecha": "26 Julio 2025",
+        "link": "https://www.cruzandolameta.es/ver/10a-carrera-el-grupo-sca---2344/",
+        "lugar": "Gualchos (Granada).",
+        "distancia": "Varias.",
+        "hora": "09:15.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "VILLARICOS (CUEVAS DEL ALMANZORA) - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+        "fecha": "26 Julio 2025",
+        "link": "https://www.cruzandolameta.es/ver/villaricos-cuevas-del-almanzora-circuito-de-carreras-populares-diputacion-de-almeria-2025---2355/",
+        "lugar": "Cuevas del Almanzora (Almería).",
+        "distancia": "6,9 - 4,6 Km.",
+        "hora": "18:30.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "II ASFALTRAIL ''VILLA DE VÍCAR''",
+        "fecha": "26 Julio 2025",
+        "link": "https://www.cruzandolameta.es/ver/ii-asfaltrail-villa-de-vicar---2360/",
+        "lugar": "Vícar (Almería).",
+        "distancia": "12 o 6 Km.",
+        "hora": "20:00.",
+        "tipo": "Asfaltrail."
+    },
+    {
+        "nombre": "GARRUCHA - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+        "fecha": "02 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/garrucha-circuito-de-carreras-populares-diputacion-de-almeria-2025---2383/",
+        "lugar": "Garrucha (Almería).",
+        "distancia": "7,25 - 3,62 Km.",
+        "hora": "19:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "DESAFIO NOCTURNO LA CUMBRE ''SUBIDA AL AGÜICA VERANO''",
+        "fecha": "09 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/desafio-nocturno-la-cumbre-subida-al-aguica-verano---2397/",
+        "lugar": "Sorbas (Almería).",
+        "distancia": "16 Km.",
+        "hora": "19:15.",
+        "tipo": "CxM."
+    },
+    {
+        "nombre": "X TRAIL ALCORNOCAL SIERRA DE LÚJAR",
+        "fecha": "10 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/x-trail-alcornocal-sierra-de-lujar---2374/",
+        "lugar": "Lújar (Granada).",
+        "distancia": "24Km - 10Km.",
+        "hora": "08:00.",
+        "tipo": "CxM."
+    },
+    {
+        "nombre": "IX CARRERA POPULAR ALAMEDILLA - LA SOLANA",
+        "fecha": "10 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/ix-carrera-popular-alamedilla-la-solana---2378/",
+        "lugar": "Alamedilla (Granada).",
+        "distancia": "12 Km.",
+        "hora": "08:30.",
+        "tipo": "Carrera Popular."
+    },
+    {
+        "nombre": "XXIV CARRERA POPULAR ''EL PESTIÑO''",
+        "fecha": "10 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/xxiv-carrera-popular-el-pestino---2393/",
+        "lugar": "Vélez de Benaudalla (Granada).",
+        "distancia": "10 Km.",
+        "hora": "09:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "III CRONOESCALADA EL SOTILLO-IZNALLOZ",
+        "fecha": "15 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/iii-cronoescalada-el-sotillo-iznalloz---2314/",
+        "lugar": "Iznalloz (Granada).",
+        "distancia": "---.",
+        "hora": "00:00.",
+        "tipo": "CICLISMO CARRETERA."
+    },
+    {
+        "nombre": "LXXXIV TRAVESÍA A NADO PUERTO DE MOTRIL",
+        "fecha": "15 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/lxxxiv-travesia-a-nado-puerto-de-motril---2394/",
+        "lugar": "Motril (Granada).",
+        "distancia": "Varias.",
+        "hora": "10:00.",
+        "tipo": "Travesía a nado."
+    },
+    {
+        "nombre": "BALANEGRA - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+        "fecha": "16 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/balanegra-circuito-de-carreras-populares-diputacion-de-almeria-2025---2384/",
+        "lugar": "Balanegra (Almería).",
+        "distancia": "8,13 - 5,42 Km.",
+        "hora": "18:30.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "NOCTURNA DOLAR TRAIL 2025",
+        "fecha": "19 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/nocturna-dolar-trail-2025---2335/",
+        "lugar": "Dólar (Granada).",
+        "distancia": "12 Km - 8,5 Senderismo.",
+        "hora": "21:00.",
+        "tipo": "Nocturna."
+    },
+    {
+        "nombre": "GRAN PREMIO MURGIVERDE 2025",
+        "fecha": "23 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/gran-premio-murgiverde-2025---2370/",
+        "lugar": "Ejido, El (Almería).",
+        "distancia": "10K - 5K - Infantiles.",
+        "hora": "19:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "CxM DEL ZENETE 12.0",
+        "fecha": "24 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/cxm-del-zenete-120---2373/",
+        "lugar": "Lanteira (Granada).",
+        "distancia": "24,7Km - 12,7Km - 6Km.",
+        "hora": "09:00.",
+        "tipo": "CxM."
+    },
+    {
+        "nombre": "X TRAIL NOCTURNO VILLA DE ALFACAR",
+        "fecha": "27 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/x-trail-nocturno-villa-de-alfacar---2392/",
+        "lugar": "Alfacar (Granada).",
+        "distancia": "10 Km.",
+        "hora": "21:30.",
+        "tipo": "CxM."
+    },
+    {
+        "nombre": "X DESAFÍO \"CASTILLEJO DE NÍVAR\"",
+        "fecha": "29 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/x-desafio-castillejo-de-nivar---2382/",
+        "lugar": "Nívar (Granada).",
+        "distancia": "10 Km - Senderismo - Carreras Infantiles.",
+        "hora": "19:30.",
+        "tipo": "Mixta."
+    },
+    {
+        "nombre": "HUELLA DEL BÚHO 2025 XIII EDICIÓN",
+        "fecha": "30 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/huella-del-buho-2025-xiii-edicion---2375/",
+        "lugar": "Colomera (Granada).",
+        "distancia": "28K - 11K.",
+        "hora": "18:00.",
+        "tipo": "CxM."
+    },
+    {
+        "nombre": "TIJOLA - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+        "fecha": "30 Agosto 2025",
+        "link": "https://www.cruzandolameta.es/ver/tijola-circuito-de-carreras-populares-diputacion-de-almeria-2025---2385/",
+        "lugar": "Tíjola (Almería).",
+        "distancia": "9 - 4,4 Km.",
+        "hora": "19:30.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "''RUTA ANFIBIA 091 POR TIERRA Y POR MAR'' POLICÍA NACIONAL 2025",
+        "fecha": "06 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/ruta-anfibia-091-por-tierra-y-por-mar-policia-nacional-2025---2359/",
+        "lugar": "Ejido, El (Almería).",
+        "distancia": "4,5K.",
+        "hora": "09:30.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "VERA - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+        "fecha": "06 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/vera-circuito-de-carreras-populares-diputacion-de-almeria-2025---2386/",
+        "lugar": "Vera (Almería).",
+        "distancia": "7,71 - 5,14 Km.",
+        "hora": "19:30.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "I SUBIDA ORGIVA-PUERTO DE CAÑAR",
+        "fecha": "07 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/i-subida-orgiva-puerto-de-canar---2315/",
+        "lugar": "Órgiva (Granada).",
+        "distancia": "---.",
+        "hora": "00:00.",
+        "tipo": "CICLISMO CARRETERA."
+    },
+    {
+        "nombre": "TITAN DESIERTOS BIKE GALERA GRANADA 2025",
+        "fecha": "07 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/titan-desiertos-bike-galera-granada-2025---2320/",
+        "lugar": "Galera (Granada).",
+        "distancia": "75K y 40K.",
+        "hora": "09:00.",
+        "tipo": "MTB."
+    },
+    {
+        "nombre": "I CARRERA SOLIDARIA ''RUTA 091'' MOTRIL",
+        "fecha": "07 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/i-carrera-solidaria-ruta-091-motril---2380/",
+        "lugar": "Motril (Granada).",
+        "distancia": "5091 metros.",
+        "hora": "10:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "RIOJA - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+        "fecha": "13 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/rioja-circuito-de-carreras-populares-diputacion-de-almeria-2025---2387/",
+        "lugar": "Rioja (Almería).",
+        "distancia": "7,65 - 5 Km.",
+        "hora": "19:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "XXVI CARRERA SANTUARIO DE ZOCUECA",
+        "fecha": "13 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/xxvi-carrera-santuario-de-zocueca---2395/",
+        "lugar": "Bailén (Jaén).",
+        "distancia": "7,1 Km.",
+        "hora": "19:30.",
+        "tipo": "Mixta (Asfalto y camino)."
+    },
+    {
+        "nombre": "XIV Prueba de Fondo “Villa Romana de Salar”",
+        "fecha": "14 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/xiv-prueba-de-fondo-villa-romana-de-salar---2256/",
+        "lugar": "Salar (Granada).",
+        "distancia": "10 K.",
+        "hora": "09:30.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "RALLY TORREON DE ALBOLOTE",
+        "fecha": "14 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/rally-torreon-de-albolote---2294/",
+        "lugar": "Albolote (Granada).",
+        "distancia": "Rally.",
+        "hora": "00:00.",
+        "tipo": "Rally BTT."
+    },
+    {
+        "nombre": "V TRAIL DE LA CONTRAVIESA CxM ALBUÑOL",
+        "fecha": "14 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/v-trail-de-la-contraviesa-cxm-albunol---2371/",
+        "lugar": "Albuñol (Granada).",
+        "distancia": "30K - 9K.",
+        "hora": "08:00.",
+        "tipo": "CxM."
+    },
+    {
+        "nombre": "IV TRIATLÓN CROS GUARDIAS VIEJAS 2025",
+        "fecha": "14 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/iv-triatlon-cros-guardias-viejas-2025---2379/",
+        "lugar": "Ejido, El (Almería).",
+        "distancia": "400 m - 10 Km - 3 Km.",
+        "hora": "09:30.",
+        "tipo": "Triatlón cross."
+    },
+    {
+        "nombre": "IX ALPUJARRA MAGNA GRAN FONDO",
+        "fecha": "20 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/ix-alpujarra-magna-gran-fondo---2317/",
+        "lugar": "Lanjarón (Granada).",
+        "distancia": "133 Km.",
+        "hora": "08:30.",
+        "tipo": "Larga Distancia Ciclismo."
+    },
+    {
+        "nombre": "XXXIX Media Maratón \"Del Melocotón\"",
+        "fecha": "21 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/xxxix-media-maraton-del-melocoton---2257/",
+        "lugar": "Guadix (Granada).",
+        "distancia": "21 K - 10 K.",
+        "hora": "10:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "BTT MARQUESADO DEL ZENETE",
+        "fecha": "21 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/btt-marquesado-del-zenete---2300/",
+        "lugar": "Aldeire (Granada).",
+        "distancia": "BTT MEDIA MARATÓN.",
+        "hora": "00:00.",
+        "tipo": "BTT MEDIA MARATÓN."
+    },
+    {
+        "nombre": "KV LA YESERA 2025",
+        "fecha": "27 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/kv-la-yesera-2025---2368/",
+        "lugar": "Uleila del Campo (Almería).",
+        "distancia": "KV - 4K +700m.",
+        "hora": "09:30.",
+        "tipo": "CxM."
+    },
+    {
+        "nombre": "MACAEL - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+        "fecha": "27 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/macael-circuito-de-carreras-populares-diputacion-de-almeria-2025---2389/",
+        "lugar": "Macael (Almería).",
+        "distancia": "7,5 Km.",
+        "hora": "18:30.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "XXXVI Prueba de Fondo Almuñecar \"Trópico de Europa\"",
+        "fecha": "28 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/xxxvi-prueba-de-fondo-almunecar-tropico-de-europa---2258/",
+        "lugar": "Almuñécar (Granada).",
+        "distancia": "10 K.",
+        "hora": "10:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "CxM LA YESERA 2025",
+        "fecha": "28 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/cxm-la-yesera-2025---2367/",
+        "lugar": "Sorbas (Almería).",
+        "distancia": "25 Km - 15 Km - Senderismos.",
+        "hora": "09:30.",
+        "tipo": "CxM."
+    },
+    {
+        "nombre": "OPEN MTB LA YESERA 2025",
+        "fecha": "28 Septiembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/open-mtb-la-yesera-2025---2369/",
+        "lugar": "Sorbas (Almería).",
+        "distancia": "CRONO 7K - MARATON MTB 60K.",
+        "hora": "09:30.",
+        "tipo": "MTB."
+    },
+    {
+        "nombre": "VIII RALLY CIUDAD DE BAZA. G.P. DAVID VALERO",
+        "fecha": "04 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/viii-rally-ciudad-de-baza-gp-david-valero---2295/",
+        "lugar": "Baza (Granada).",
+        "distancia": "Rally.",
+        "hora": "00:00.",
+        "tipo": "Rally BTT."
+    },
+    {
+        "nombre": "X BENEMÉRITA TRAIL 2025",
+        "fecha": "04 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/x-benemerita-trail-2025---2347/",
+        "lugar": "Alfacar (Granada).",
+        "distancia": "42K - 25K - 12K.",
+        "hora": "08:00.",
+        "tipo": "Trail."
+    },
+    {
+        "nombre": "V CXM SIERRA DE MARIA ''PICO DE LA BURRICA'' 2025",
+        "fecha": "04 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/v-cxm-sierra-de-maria-pico-de-la-burrica-2025---2376/",
+        "lugar": "María (Almería).",
+        "distancia": "25,6K - 13,88K - 15,4K.",
+        "hora": "09:00.",
+        "tipo": "CxM."
+    },
+    {
+        "nombre": "ANTAS - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+        "fecha": "04 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/antas-circuito-de-carreras-populares-diputacion-de-almeria-2025---2390/",
+        "lugar": "Antas (Almería).",
+        "distancia": "8,86 Km.",
+        "hora": "18:30.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "IV BTT BENALUA GEOPARQUE GRANADA",
+        "fecha": "05 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/iv-btt-benalua-geoparque-granada---2301/",
+        "lugar": "Benalúa (Granada).",
+        "distancia": "BTT MEDIA MARATÓN.",
+        "hora": "00:00.",
+        "tipo": "BTT MEDIA MARATÓN."
+    },
+    {
+        "nombre": "V CxM TRAIL ATALAYA DEL MUERTO",
+        "fecha": "05 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/v-cxm-trail-atalaya-del-muerto---2338/",
+        "lugar": "Huéscar (Granada).",
+        "distancia": "26 Km - 14 Km - Senderismo 8,5 Km.",
+        "hora": "09:00.",
+        "tipo": "CxM."
+    },
+    {
+        "nombre": "VII DÓLAR TRAIL",
+        "fecha": "05 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/vii-dolar-trail---2381/",
+        "lugar": "Dólar (Granada).",
+        "distancia": "13K - 10K.",
+        "hora": "10:00.",
+        "tipo": "Trail."
+    },
+    {
+        "nombre": "V MEDIA MARATON TAJOS DE ALHAMA",
+        "fecha": "12 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/v-media-maraton-tajos-de-alhama---2302/",
+        "lugar": "Alhama de Granada (Granada).",
+        "distancia": "BTT MEDIA MARATÓN.",
+        "hora": "00:00.",
+        "tipo": "BTT MEDIA MARATÓN."
+    },
+    {
+        "nombre": "XLI Media Maratón Ciudad de Motril",
+        "fecha": "19 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/xli-media-maraton-ciudad-de-motril---2259/",
+        "lugar": "Motril (Granada).",
+        "distancia": "21K - 10K.",
+        "hora": "10:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "CASCO ANTIGUO - CAIXABANK ''CIRCUITO DIVINA SEGUROS DE CARRERAS POPULARES #SEVILLA10''",
+        "fecha": "19 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/casco-antiguo-caixabank-circuito-divina-seguros-de-carreras-populares-sevilla10---2286/",
+        "lugar": "Sevilla (Sevilla).",
+        "distancia": "10K - 5K.",
+        "hora": "09:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "XIV GRAN FONDO GUAD AL XENIL UCI CYCLING FOR ALL",
+        "fecha": "19 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/xiv-gran-fondo-guad-al-xenil-uci-cycling-for-all---2318/",
+        "lugar": "Loja (Granada).",
+        "distancia": "--- km.",
+        "hora": "09:30.",
+        "tipo": "CICLISMO CARRETERA."
+    },
+    {
+        "nombre": "SAN JUAN DE LOS TERREROS (PULPÍ) - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+        "fecha": "25 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/san-juan-de-los-terreros-pulpi-circuito-de-carreras-populares-diputacion-de-almeria-2025---2391/",
+        "lugar": "Pulpí (Almería).",
+        "distancia": "7,17 - 4,9 Km.",
+        "hora": "18:30.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "XIX Prueba de Fondo \"La Hispanidad\"",
+        "fecha": "26 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/xix-prueba-de-fondo-la-hispanidad---2260/",
+        "lugar": "Santa Fe (Granada).",
+        "distancia": "10K.",
+        "hora": "11:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "X MEMORIAL GUILLERMO VILLEGAS",
+        "fecha": "26 Octubre 2025",
+        "link": "https://www.cruzandolameta.es/ver/x-memorial-guillermo-villegas---2303/",
+        "lugar": "Montillana (Granada).",
+        "distancia": "BTT MEDIA MARATÓN.",
+        "hora": "00:00.",
+        "tipo": "BTT MEDIA MARATÓN."
+    },
+    {
+        "nombre": "X OPEN BTT VILLA DE CADIAR",
+        "fecha": "02 Noviembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/x-open-btt-villa-de-cadiar---2304/",
+        "lugar": "Cádiar (Granada).",
+        "distancia": "BTT MEDIA MARATÓN.",
+        "hora": "00:00.",
+        "tipo": "BTT MEDIA MARATÓN."
+    },
+    {
+        "nombre": "II RALLY BTT XCO",
+        "fecha": "30 Noviembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/ii-rally-btt-xco---2296/",
+        "lugar": "Purullena (Granada).",
+        "distancia": "Rally.",
+        "hora": "00:00.",
+        "tipo": "Rally BTT."
+    },
+    {
+        "nombre": "39 MEDIA MARATÓN DE CÓRDOBA",
+        "fecha": "30 Noviembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/39-media-maraton-de-cordoba---2345/",
+        "lugar": "Córdoba (Córdoba).",
+        "distancia": "Media maratón.",
+        "hora": "10:00.",
+        "tipo": "Ruta."
+    },
+    {
+        "nombre": "MEDIA MARATÓN SEVILLA - LOS PALACIOS 2025",
+        "fecha": "14 Diciembre 2025",
+        "link": "https://www.cruzandolameta.es/ver/media-maraton-sevilla-los-palacios-2025---2343/",
+        "lugar": "Sevilla (Sevilla).",
+        "distancia": "21 Km Homologada por la RFEA.",
+        "hora": "11:00.",
+        "tipo": "Media Maratón."
+    },
+    {
+        "nombre": "ULTRA TRAIL COSTA TROPICAL – UTCT 2026",
+        "fecha": "31 Enero 2026",
+        "link": "https://www.cruzandolameta.es/ver/ultra-trail-costa-tropical-utct-2026---2377/",
+        "lugar": "Motril (Granada).",
+        "distancia": "89,7 Km.",
+        "hora": "06:00.",
+        "tipo": "Ultra CxM."
+    }
+]
