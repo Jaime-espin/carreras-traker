@@ -1,10 +1,10 @@
-# 🏃 Carreras Tracker
+#  Carreras Tracker
 
 Aplicación ligera en Python para recopilar, normalizar y consultar carreras populares, trail y eventos deportivos en España (GlobalTempo, CruzandoLaMeta, etc.).
 
 ---
 
-## ⚡ Inicio Rápido
+##  Inicio Rápido
 
 ### 1. Requisitos
 Instala las dependencias necesarias:
@@ -28,7 +28,7 @@ Abre tu navegador en: [http://localhost:5000](http://localhost:5000)
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 carreras-traker/
@@ -55,9 +55,9 @@ carreras-traker/
 
 ---
 
-## ✨ Características de la Interfaz Web
+##  Características de la Interfaz Web
 
-> 🤖 **Nota:** El frontend ha sido generado y optimizado con Inteligencia Artificial (IA).
+>  **Nota:** El frontend ha sido generado y optimizado con Inteligencia Artificial (IA).
 
 - **Diseño ultra simple:** Vista de tabla limpia y directa con 4 columnas esenciales (Fecha, Carrera, Lugar y Distancia).
 - **Búsqueda instantánea:** Barra de búsqueda en tiempo real que filtra por nombre, lugar, tipo o distancia (ej. `10k`, `Granada`, `Trail`).
