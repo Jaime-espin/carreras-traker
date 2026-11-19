@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carreras Tracker</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+            max-width: 960px;
+            margin: 32px auto;
+            padding: 0 16px;
+            color: #1f2937;
+            background: #ffffff;
+            line-height: 1.5;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 16px;
+        }
+        h1 {
+            font-size: 1.4rem;
+            font-weight: 600;
+        }
+        .total {
+            font-size: 0.85rem;
+            color: #6b7280;
+        }
+        #buscador {
+            width: 100%;
+            padding: 9px 12px;
+            font-size: 0.95rem;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            margin-bottom: 16px;
+            outline: none;
+        }
+        #buscador:focus {
+            border-color: #2563eb;
+        }
+        .tabla-contenedor {
+            overflow-x: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+        th, td {
+            padding: 10px 12px;
+            text-align: left;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        th {
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: #4b5563;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            background: #f9fafb;
+        }
+        tr:hover td {
+            background: #f9fafb;
+        }
+        td.fecha {
+            white-space: nowrap;
+            color: #374151;
+            font-weight: 500;
+        }
+        a.nombre {
+            color: #1d4ed8;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        a.nombre:hover {
+            text-decoration: underline;
+        }
+        .meta-secundaria {
+            font-size: 0.8rem;
+            color: #6b7280;
+            margin-top: 2px;
+        }
+        .vacio {
+            text-align: center;
+            padding: 32px;
+            color: #6b7280;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Carreras</h1>
+        <span class="total" id="contador">{{ carreras | length }} carreras</span>
+    </div>
+
+    <input type="text" id="buscador" placeholder="Buscar por nombre, localidad, provincia, distancia (ej. 10k)..." autofocus>
+
+    <div class="tabla-contenedor">
+        <table id="tabla">
+            <thead>
+                <tr>
+                    <th style="width: 110px;">Fecha</th>
+                    <th>Carrera</th>
+                    <th>Lugar</th>
+                    <th>Distancia</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for c in carreras %}
+                <tr>
+                    <td class="fecha">{{ c.fecha_display or c.fecha or 'Pendiente' }}</td>
+                    <td>
+                        <a href="{{ c.link }}" target="_blank" rel="noopener noreferrer" class="nombre">{{ c.nombre }}</a>
+                        {% if c.tipo %}
+                        <div class="meta-secundaria">{{ c.tipo }}</div>
+                        {% endif %}
+                    </td>
+                    <td>
+                        {{ c.ciudad }}{% if c.provincia and c.provincia != c.ciudad %}, {{ c.provincia }}{% endif %}
+                    </td>
+                    <td>
+                        {% if c.distancias_km %}
+                            {{ c.distancias_km | join(', ') }} km
+                        {% else %}
+                            -
+                        {% endif %}
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <div id="sinResultados" class="vacio">No se encontraron carreras con esa búsqueda.</div>
+
+    <script>
+        const input = document.getElementById('buscador');
+        const filas = document.querySelectorAll('#tabla tbody tr');
+        const contador = document.getElementById('contador');
+        const sinResultados = document.getElementById('sinResultados');
+        const total = filas.length;
+
+        input.addEventListener('input', () => {
+            const query = input.value.toLowerCase().trim();
+            let visibles = 0;
+
+            filas.forEach(fila => {
+                const texto = fila.textContent.toLowerCase();
+                const visible = !query || texto.includes(query);
+                fila.style.display = visible ? '' : 'none';
+                if (visible) visibles++;
+            });
+
+            contador.textContent = query ? `${visibles} de ${total} carreras` : `${total} carreras`;
+            sinResultados.style.display = visibles === 0 ? 'block' : 'none';
+        });
+    </script>
+</body>
+</html>

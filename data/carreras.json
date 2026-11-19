@@ -1,0 +1,1992 @@
+[
+  {
+    "nombre": "CIRCUITO DE CARRERAS MAMUT DE PADUL 24-25",
+    "fecha": "2024-01-01",
+    "fecha_display": "01 Ene 2024",
+    "link": "https://www.global-tempo.com/carreras.php?id=2582",
+    "ciudad": "Padul",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Trail / Montaña",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "CIRCUITO DE TRAVESÍAS A NADO 2025 - DIPUTACIÓN DE GRANADA",
+    "fecha": "2025-01-01",
+    "fecha_display": "01 Ene 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2776",
+    "ciudad": "Granada",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Natación",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "TOUR PIRATA MTB DIPUTACIÓN DE GRANADA 2025",
+    "fecha": "2025-01-01",
+    "fecha_display": "01 Ene 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2682",
+    "ciudad": "Granada",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "MTB / Ciclismo",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "VIII CIRCUITO PROVINCIAL TRAVESIAS A NADO POR LOS PANTANOS DE JAÉN 2025",
+    "fecha": "2025-01-01",
+    "fecha_display": "01 Ene 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2761",
+    "ciudad": "Jaén",
+    "provincia": "Jaén",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Natación",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "LIGA VOLEY PLAYA COSTA TROPICAL - MOTRIL",
+    "fecha": "2025-07-19",
+    "fecha_display": "19 Jul 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2793",
+    "ciudad": "Motril",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "MAREA ROSA TORRENUEVA COSTA 2025",
+    "fecha": "2025-07-19",
+    "fecha_display": "19 Jul 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2833",
+    "ciudad": "Torrenueva Costa",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "9ª CARRERA POPULAR DE PINOS GENIL",
+    "fecha": "2025-07-26",
+    "fecha_display": "26 Jul 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2802",
+    "ciudad": "Pinos Genil",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 5.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 6.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      5.0,
+      6.0
+    ],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "LIGA VOLEY PLAYA COSTA TROPICAL - ALMUÑÉCAR",
+    "fecha": "2025-07-26",
+    "fecha_display": "26 Jul 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2794",
+    "ciudad": "Almuñécar",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "10º TRAVESÍA A NADO - \"VILLA DE MARMOLEJO\"",
+    "fecha": "2025-07-27",
+    "fecha_display": "27 Jul 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2800",
+    "ciudad": "Marmolejo",
+    "provincia": "Jaén",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Natación",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "CIRCUITO DE TRAVESÍAS A NADO 2025 - TRAVESÍA SALOBREÑA",
+    "fecha": "2025-07-27",
+    "fecha_display": "27 Jul 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2782",
+    "ciudad": "Salobreña",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Natación",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "GARRUCHA - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+    "fecha": "2025-08-02",
+    "fecha_display": "02 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/garrucha-circuito-de-carreras-populares-diputacion-de-almeria-2025---2383/",
+    "ciudad": "Garrucha",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 3.62,
+        "precio": null
+      },
+      {
+        "distancia_km": 7.25,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      3.62,
+      7.25
+    ],
+    "hora": "19:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "VIII TRAVESÍA A NADO - EMBALSE DEL TRANCO",
+    "fecha": "2025-08-02",
+    "fecha_display": "02 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2831",
+    "ciudad": "Hornos",
+    "provincia": "Jaén",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Natación",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "LIGA VOLEY PLAYA COSTA TROPICAL - POLOPOS - LA MAMOLA",
+    "fecha": "2025-08-03",
+    "fecha_display": "03 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2795",
+    "ciudad": "Polopos - La Mamola",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "DORSAL SOLIDARIO - ORGIVA CORRE CONTRA LA LEUCEMIA INFANTIL",
+    "fecha": "2025-08-08",
+    "fecha_display": "08 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2828",
+    "ciudad": "Órgiva",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "IV CARRERA SOLIDARIA INFANTIL \"ÓRGIVA CORRE CONTRA LA LEUCEMIA INFANTIL\"",
+    "fecha": "2025-08-08",
+    "fecha_display": "08 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2827",
+    "ciudad": "Órgiva",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "V TRAIL RUNNING NOCTURNO \"VALLE DEL GUADALFEO\"",
+    "fecha": "2025-08-08",
+    "fecha_display": "08 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2806",
+    "ciudad": "Órgiva",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 6.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 12.5,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      6.0,
+      12.5
+    ],
+    "hora": null,
+    "tipo": "Trail / Montaña",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "DESAFIO NOCTURNO LA CUMBRE ''SUBIDA AL AGÜICA VERANO''",
+    "fecha": "2025-08-09",
+    "fecha_display": "09 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/desafio-nocturno-la-cumbre-subida-al-aguica-verano---2397/",
+    "ciudad": "Sorbas",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 16.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      16.0
+    ],
+    "hora": "20:15",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "III CARRERA SOLIDARIA \"LA LOBERA\"",
+    "fecha": "2025-08-09",
+    "fecha_display": "09 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2762",
+    "ciudad": "Huéneja",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "V RUTA NOCTURNA JABALCÓN 360º",
+    "fecha": "2025-08-09",
+    "fecha_display": "09 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2830",
+    "ciudad": "Zújar",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 13.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      13.0
+    ],
+    "hora": null,
+    "tipo": "Ruta / Asfalto",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "XIII CARRERA DE MONTAÑA \"SANTO CRISTO DEL ZAPATO\"",
+    "fecha": "2025-08-09",
+    "fecha_display": "09 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2821",
+    "ciudad": "Pinos Del Valle",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 2.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 10.5,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      2.0,
+      10.5
+    ],
+    "hora": null,
+    "tipo": "Trail / Montaña",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "IX CARRERA POPULAR ALAMEDILLA - LA SOLANA",
+    "fecha": "2025-08-10",
+    "fecha_display": "10 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/ix-carrera-popular-alamedilla-la-solana---2378/",
+    "ciudad": "Alamedilla",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 12.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      12.0
+    ],
+    "hora": "08:30",
+    "tipo": "Carrera Popular",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "X TRAIL ALCORNOCAL SIERRA DE LÚJAR",
+    "fecha": "2025-08-10",
+    "fecha_display": "10 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/x-trail-alcornocal-sierra-de-lujar---2374/",
+    "ciudad": "Lújar",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 24.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      10.0,
+      24.0
+    ],
+    "hora": "08:00",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "XXIV CARRERA POPULAR ''EL PESTIÑO''",
+    "fecha": "2025-08-10",
+    "fecha_display": "10 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/xxiv-carrera-popular-el-pestino---2393/",
+    "ciudad": "Vélez de Benaudalla",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      10.0
+    ],
+    "hora": "09:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "CARRERA DE LA VEGA - ALMUÑÉCAR 2025",
+    "fecha": "2025-08-12",
+    "fecha_display": "12 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2838",
+    "ciudad": "Almuñécar",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "XVIII MARATÓN POPULAR FIESTAS PATRONALES GÜEJAR SIERRA",
+    "fecha": "2025-08-12",
+    "fecha_display": "12 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2819",
+    "ciudad": "Güejar Sierra",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "CARRERA DE COLORES - ALBUÑUELAS",
+    "fecha": "2025-08-14",
+    "fecha_display": "14 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2841",
+    "ciudad": "Albuñuelas",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Triatlón / Duatlón",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "III CRONOESCALADA EL SOTILLO-IZNALLOZ",
+    "fecha": "2025-08-15",
+    "fecha_display": "15 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/iii-cronoescalada-el-sotillo-iznalloz---2314/",
+    "ciudad": "Iznalloz",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "00:00",
+    "tipo": "MTB / Ciclismo",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "LXXXIV TRAVESÍA A NADO PUERTO DE MOTRIL",
+    "fecha": "2025-08-15",
+    "fecha_display": "15 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/lxxxiv-travesia-a-nado-puerto-de-motril---2394/",
+    "ciudad": "Motril",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "10:00",
+    "tipo": "Natación",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "XXIX CRONOESCALADA JABALCÓN",
+    "fecha": "2025-08-15",
+    "fecha_display": "15 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2829",
+    "ciudad": "Zújar",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "BALANEGRA - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+    "fecha": "2025-08-16",
+    "fecha_display": "16 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/balanegra-circuito-de-carreras-populares-diputacion-de-almeria-2025---2384/",
+    "ciudad": "Balanegra",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 5.42,
+        "precio": null
+      },
+      {
+        "distancia_km": 8.13,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      5.42,
+      8.13
+    ],
+    "hora": "18:30",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "II FESTIVAL MOUNTAIN VILLA DE GOR",
+    "fecha": "2025-08-16",
+    "fecha_display": "16 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2775",
+    "ciudad": "Gor",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Trail / Montaña",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "III CXM NOCTURNA ALBONDON",
+    "fecha": "2025-08-16",
+    "fecha_display": "16 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2804",
+    "ciudad": "Albondón",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Trail / Montaña",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "I RALLY ESCUELAS CIUDAD DE DÚRCAL 2025",
+    "fecha": "2025-08-17",
+    "fecha_display": "17 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2850",
+    "ciudad": "Dúrcal",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "NOCTURNA DOLAR TRAIL 2025",
+    "fecha": "2025-08-19",
+    "fecha_display": "19 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/nocturna-dolar-trail-2025---2335/",
+    "ciudad": "Dólar",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 8.5,
+        "precio": null
+      },
+      {
+        "distancia_km": 12.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      8.5,
+      12.0
+    ],
+    "hora": "21:00",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "XXII CARRERA URBANA \"VILLA DE ALHENDÍN\"",
+    "fecha": "2025-08-22",
+    "fecha_display": "22 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2855",
+    "ciudad": "Alhendín",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 7.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      7.0
+    ],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "GRAN PREMIO MURGIVERDE 2025",
+    "fecha": "2025-08-23",
+    "fecha_display": "23 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/gran-premio-murgiverde-2025---2370/",
+    "ciudad": "Ejido, El",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 5.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      5.0,
+      10.0
+    ],
+    "hora": "19:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "LIGA VOLEY PLAYA COSTA TROPICAL - SALOBREÑA",
+    "fecha": "2025-08-23",
+    "fecha_display": "23 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2796",
+    "ciudad": "Salobreña",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "XXXIX AGUACARBO",
+    "fecha": "2025-08-23",
+    "fecha_display": "23 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/xxxix-aguacarbo---2398/",
+    "ciudad": "Carboneras",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 5.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 14.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 16.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      5.0,
+      10.0,
+      14.0,
+      16.0
+    ],
+    "hora": "20:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "CxM DEL ZENETE 12.0",
+    "fecha": "2025-08-24",
+    "fecha_display": "24 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/cxm-del-zenete-120---2373/",
+    "ciudad": "Lanteira",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 6.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 12.7,
+        "precio": null
+      },
+      {
+        "distancia_km": 24.7,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      6.0,
+      12.7,
+      24.7
+    ],
+    "hora": "09:00",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "X TRAIL NOCTURNO VILLA DE ALFACAR",
+    "fecha": "2025-08-27",
+    "fecha_display": "27 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/x-trail-nocturno-villa-de-alfacar---2392/",
+    "ciudad": "Alfacar",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      10.0
+    ],
+    "hora": "21:30",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "X DESAFÍO \"CASTILLEJO DE NÍVAR\"",
+    "fecha": "2025-08-29",
+    "fecha_display": "29 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/x-desafio-castillejo-de-nivar---2382/",
+    "ciudad": "Nívar",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      10.0
+    ],
+    "hora": "19:30",
+    "tipo": "Carrera Popular",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "HUELLA DEL BÚHO 2025 XIII EDICIÓN",
+    "fecha": "2025-08-30",
+    "fecha_display": "30 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/huella-del-buho-2025-xiii-edicion---2375/",
+    "ciudad": "Colomera",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 11.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 28.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      11.0,
+      28.0
+    ],
+    "hora": "18:00",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "I CARRERA NOCTURNA - LA RÁBITA - EL POZUELO",
+    "fecha": "2025-08-30",
+    "fecha_display": "30 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2774",
+    "ciudad": "Albuñol",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 5.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      5.0,
+      10.0
+    ],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "LIGA VOLEY PLAYA COSTA TROPICAL - TORRENUEVA",
+    "fecha": "2025-08-30",
+    "fecha_display": "30 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2797",
+    "ciudad": "Torrenueva",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "TIJOLA - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+    "fecha": "2025-08-30",
+    "fecha_display": "30 Ago 2025",
+    "link": "https://www.cruzandolameta.es/ver/tijola-circuito-de-carreras-populares-diputacion-de-almeria-2025---2385/",
+    "ciudad": "Tíjola",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 4.4,
+        "precio": null
+      },
+      {
+        "distancia_km": 9.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      4.4,
+      9.0
+    ],
+    "hora": "19:30",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "XV RUTA SOLIDARIA DEL AVIÓN JÉREZ DEL MARQUESADO",
+    "fecha": "2025-08-31",
+    "fecha_display": "31 Ago 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2832",
+    "ciudad": "Jérez Del Marquesado",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Trail / Montaña",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "''RUTA ANFIBIA 091 POR TIERRA Y POR MAR'' POLICÍA NACIONAL 2025",
+    "fecha": "2025-09-06",
+    "fecha_display": "06 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/ruta-anfibia-091-por-tierra-y-por-mar-policia-nacional-2025---2359/",
+    "ciudad": "Ejido, El",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 4.5,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      4.5
+    ],
+    "hora": "09:30",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 9. CASTRIL",
+    "fecha": "2025-09-06",
+    "fecha_display": "06 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2739",
+    "ciudad": "Castril",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "VERA - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+    "fecha": "2025-09-06",
+    "fecha_display": "06 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/vera-circuito-de-carreras-populares-diputacion-de-almeria-2025---2386/",
+    "ciudad": "Vera",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 5.14,
+        "precio": null
+      },
+      {
+        "distancia_km": 7.71,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      5.14,
+      7.71
+    ],
+    "hora": "19:30",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "CIRCUITO DE TRAVESÍAS A NADO 2025 - TRAVESÍA LA HERRADURA",
+    "fecha": "2025-09-07",
+    "fecha_display": "07 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2783",
+    "ciudad": "Almuñecar",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Natación",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "I CARRERA SOLIDARIA ''RUTA 091'' MOTRIL",
+    "fecha": "2025-09-07",
+    "fecha_display": "07 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/i-carrera-solidaria-ruta-091-motril---2380/",
+    "ciudad": "Motril",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "10:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "I SUBIDA ORGIVA-PUERTO DE CAÑAR",
+    "fecha": "2025-09-07",
+    "fecha_display": "07 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/i-subida-orgiva-puerto-de-canar---2315/",
+    "ciudad": "Órgiva",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "00:00",
+    "tipo": "MTB / Ciclismo",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "TITAN DESIERTOS BIKE GALERA GRANADA 2025",
+    "fecha": "2025-09-07",
+    "fecha_display": "07 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/titan-desiertos-bike-galera-granada-2025---2320/",
+    "ciudad": "Galera",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 40.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 75.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      40.0,
+      75.0
+    ],
+    "hora": "09:00",
+    "tipo": "MTB / Ciclismo",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "RIOJA - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+    "fecha": "2025-09-13",
+    "fecha_display": "13 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/rioja-circuito-de-carreras-populares-diputacion-de-almeria-2025---2387/",
+    "ciudad": "Rioja",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 5.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 7.65,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      5.0,
+      7.65
+    ],
+    "hora": "19:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "VII MARCHA X UNA META SIN DIABETES",
+    "fecha": "2025-09-13",
+    "fecha_display": "13 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2848",
+    "ciudad": "Padúl",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "XXVI CARRERA SANTUARIO DE ZOCUECA",
+    "fecha": "2025-09-13",
+    "fecha_display": "13 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/xxvi-carrera-santuario-de-zocueca---2395/",
+    "ciudad": "Bailén",
+    "provincia": "Jaén",
+    "distancias": [
+      {
+        "distancia_km": 7.1,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      7.1
+    ],
+    "hora": "19:30",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "CIRCUITO DE TRAVESÍAS A NADO 2025 - VII TRAVESÍA DE TORRENUEVA",
+    "fecha": "2025-09-14",
+    "fecha_display": "14 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2784",
+    "ciudad": "Torrenueva",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Natación",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "IV TRIATLÓN CROS GUARDIAS VIEJAS 2025",
+    "fecha": "2025-09-14",
+    "fecha_display": "14 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/iv-triatlon-cros-guardias-viejas-2025---2379/",
+    "ciudad": "Ejido, El",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 3.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      3.0,
+      10.0
+    ],
+    "hora": "09:30",
+    "tipo": "Triatlón / Duatlón",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "RALLY TORREON DE ALBOLOTE",
+    "fecha": "2025-09-14",
+    "fecha_display": "14 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/rally-torreon-de-albolote---2294/",
+    "ciudad": "Albolote",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "00:00",
+    "tipo": "Carrera Popular",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 10. MOLVÍZAR",
+    "fecha": "2025-09-14",
+    "fecha_display": "14 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2740",
+    "ciudad": "Molvízar",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "TOUR PIRATA EN CASTRIL",
+    "fecha": "2025-09-14",
+    "fecha_display": "14 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2854",
+    "ciudad": "Castril",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "MTB / Ciclismo",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "TRIATLÓN DESAFÍO GEOPARQUE",
+    "fecha": "2025-09-14",
+    "fecha_display": "14 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2654",
+    "ciudad": "Granada",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 1.3,
+        "precio": null
+      },
+      {
+        "distancia_km": 13.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 70.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      1.3,
+      13.0,
+      70.0
+    ],
+    "hora": null,
+    "tipo": "Triatlón / Duatlón",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "V TRAIL DE LA CONTRAVIESA CxM ALBUÑOL",
+    "fecha": "2025-09-14",
+    "fecha_display": "14 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/v-trail-de-la-contraviesa-cxm-albunol---2371/",
+    "ciudad": "Albuñol",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 9.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 30.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      9.0,
+      30.0
+    ],
+    "hora": "08:00",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "XIV Prueba de Fondo “Villa Romana de Salar”",
+    "fecha": "2025-09-14",
+    "fecha_display": "14 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/xiv-prueba-de-fondo-villa-romana-de-salar---2256/",
+    "ciudad": "Salar",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      10.0
+    ],
+    "hora": "09:30",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "IX ALPUJARRA MAGNA GRAN FONDO",
+    "fecha": "2025-09-20",
+    "fecha_display": "20 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/ix-alpujarra-magna-gran-fondo---2317/",
+    "ciudad": "Lanjarón",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 133.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      133.0
+    ],
+    "hora": "08:30",
+    "tipo": "MTB / Ciclismo",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "BTT MARQUESADO DEL ZENETE",
+    "fecha": "2025-09-21",
+    "fecha_display": "21 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/btt-marquesado-del-zenete---2300/",
+    "ciudad": "Aldeire",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "00:00",
+    "tipo": "Carrera Popular",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "IV SAUCINA BIKE RACE",
+    "fecha": "2025-09-21",
+    "fecha_display": "21 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2725",
+    "ciudad": "Chauchina",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Ruta / Asfalto",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA - JORNADA 11. ÓRGIVA - ACOMPAÑANTES DE LOS PERROS",
+    "fecha": "2025-09-21",
+    "fecha_display": "21 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2810",
+    "ciudad": "Órgiva",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA - JORNADA 11. ÓRGIVA - SEDE CANINA (AQUÍ SE INSCRIBE EL PARTICIPANTE QUE LLEVE EL PERRO)",
+    "fecha": "2025-09-21",
+    "fecha_display": "21 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2809",
+    "ciudad": "Órgiva",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 11. ÓRGIVA",
+    "fecha": "2025-09-21",
+    "fecha_display": "21 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2741",
+    "ciudad": "Órgiva",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "XXXIX Media Maratón \"Del Melocotón\"",
+    "fecha": "2025-09-21",
+    "fecha_display": "21 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/xxxix-media-maraton-del-melocoton---2257/",
+    "ciudad": "Guadix",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 21.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      10.0,
+      21.0
+    ],
+    "hora": "10:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "IX TRAIL NOCTURNO DEHESA DE SANTA FÉ",
+    "fecha": "2025-09-27",
+    "fecha_display": "27 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2834",
+    "ciudad": "Santa Fe",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 11.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 16.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      11.0,
+      16.0
+    ],
+    "hora": null,
+    "tipo": "Trail / Montaña",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "KV LA YESERA 2025",
+    "fecha": "2025-09-27",
+    "fecha_display": "27 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/kv-la-yesera-2025---2368/",
+    "ciudad": "Uleila del Campo",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 4.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      4.0
+    ],
+    "hora": "09:30",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "MACAEL - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+    "fecha": "2025-09-27",
+    "fecha_display": "27 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/macael-circuito-de-carreras-populares-diputacion-de-almeria-2025---2389/",
+    "ciudad": "Macael",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 7.5,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      7.5
+    ],
+    "hora": "18:30",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "CxM LA YESERA 2025",
+    "fecha": "2025-09-28",
+    "fecha_display": "28 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/cxm-la-yesera-2025---2367/",
+    "ciudad": "Sorbas",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 15.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 25.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      15.0,
+      25.0
+    ],
+    "hora": "09:30",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "OPEN MTB LA YESERA 2025",
+    "fecha": "2025-09-28",
+    "fecha_display": "28 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/open-mtb-la-yesera-2025---2369/",
+    "ciudad": "Sorbas",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 7.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 60.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      7.0,
+      60.0
+    ],
+    "hora": "09:30",
+    "tipo": "MTB / Ciclismo",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 12. LA TAHA",
+    "fecha": "2025-09-28",
+    "fecha_display": "28 Sep 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2742",
+    "ciudad": "La Taha",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "XXXVI Prueba de Fondo Almuñecar \"Trópico de Europa\"",
+    "fecha": "2025-09-28",
+    "fecha_display": "28 Sep 2025",
+    "link": "https://www.cruzandolameta.es/ver/xxxvi-prueba-de-fondo-almunecar-tropico-de-europa---2258/",
+    "ciudad": "Almuñécar",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      10.0
+    ],
+    "hora": "10:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "ANTAS - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+    "fecha": "2025-10-04",
+    "fecha_display": "04 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/antas-circuito-de-carreras-populares-diputacion-de-almeria-2025---2390/",
+    "ciudad": "Antas",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 8.86,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      8.86
+    ],
+    "hora": "18:30",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 13. JAYENA",
+    "fecha": "2025-10-04",
+    "fecha_display": "04 Oct 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2743",
+    "ciudad": "Jayena",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "V CXM SIERRA DE MARIA ''PICO DE LA BURRICA'' 2025",
+    "fecha": "2025-10-04",
+    "fecha_display": "04 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/v-cxm-sierra-de-maria-pico-de-la-burrica-2025---2376/",
+    "ciudad": "María",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 13.88,
+        "precio": null
+      },
+      {
+        "distancia_km": 15.4,
+        "precio": null
+      },
+      {
+        "distancia_km": 25.6,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      13.88,
+      15.4,
+      25.6
+    ],
+    "hora": "09:00",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "VIII RALLY CIUDAD DE BAZA. G.P. DAVID VALERO",
+    "fecha": "2025-10-04",
+    "fecha_display": "04 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/viii-rally-ciudad-de-baza-gp-david-valero---2295/",
+    "ciudad": "Baza",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "00:00",
+    "tipo": "Carrera Popular",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "X BENEMÉRITA TRAIL 2025",
+    "fecha": "2025-10-04",
+    "fecha_display": "04 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/x-benemerita-trail-2025---2347/",
+    "ciudad": "Alfacar",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 12.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 25.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 42.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      12.0,
+      25.0,
+      42.0
+    ],
+    "hora": "08:00",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "CARRERA-MARCHA SOLIDARIA - ASPACE GRANADA 2025",
+    "fecha": "2025-10-05",
+    "fecha_display": "05 Oct 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2801",
+    "ciudad": "Granada",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "IV BTT BENALUA GEOPARQUE GRANADA",
+    "fecha": "2025-10-05",
+    "fecha_display": "05 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/iv-btt-benalua-geoparque-granada---2301/",
+    "ciudad": "Benalúa",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "00:00",
+    "tipo": "Carrera Popular",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 14. BEAS DE GUADIX",
+    "fecha": "2025-10-05",
+    "fecha_display": "05 Oct 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2744",
+    "ciudad": "Beas De Guadix",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "V CxM TRAIL ATALAYA DEL MUERTO",
+    "fecha": "2025-10-05",
+    "fecha_display": "05 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/v-cxm-trail-atalaya-del-muerto---2338/",
+    "ciudad": "Huéscar",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 8.5,
+        "precio": null
+      },
+      {
+        "distancia_km": 14.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 26.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      8.5,
+      14.0,
+      26.0
+    ],
+    "hora": "09:00",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "VII DÓLAR TRAIL",
+    "fecha": "2025-10-05",
+    "fecha_display": "05 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/vii-dolar-trail---2381/",
+    "ciudad": "Dólar",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 13.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      10.0,
+      13.0
+    ],
+    "hora": "10:00",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "V MEDIA MARATON TAJOS DE ALHAMA",
+    "fecha": "2025-10-12",
+    "fecha_display": "12 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/v-media-maraton-tajos-de-alhama---2302/",
+    "ciudad": "Alhama de Granada",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "00:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "CARRERA SOLIDARIA 2025 #CORREMOSPORLAEM",
+    "fecha": "2025-10-19",
+    "fecha_display": "19 Oct 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2811",
+    "ciudad": "Armilla",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "CASCO ANTIGUO - CAIXABANK ''CIRCUITO DIVINA SEGUROS DE CARRERAS POPULARES #SEVILLA10''",
+    "fecha": "2025-10-19",
+    "fecha_display": "19 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/casco-antiguo-caixabank-circuito-divina-seguros-de-carreras-populares-sevilla10---2286/",
+    "ciudad": "Sevilla",
+    "provincia": "Sevilla",
+    "distancias": [
+      {
+        "distancia_km": 5.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      5.0,
+      10.0
+    ],
+    "hora": "09:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 15. CUEVAS DEL CAMPO",
+    "fecha": "2025-10-19",
+    "fecha_display": "19 Oct 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2745",
+    "ciudad": "Cuevas Del Campo",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "XIV GRAN FONDO GUAD AL XENIL UCI CYCLING FOR ALL",
+    "fecha": "2025-10-19",
+    "fecha_display": "19 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/xiv-gran-fondo-guad-al-xenil-uci-cycling-for-all---2318/",
+    "ciudad": "Loja",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "09:30",
+    "tipo": "MTB / Ciclismo",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "XLI Media Maratón Ciudad de Motril",
+    "fecha": "2025-10-19",
+    "fecha_display": "19 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/xli-media-maraton-ciudad-de-motril---2259/",
+    "ciudad": "Motril",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      },
+      {
+        "distancia_km": 21.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      10.0,
+      21.0
+    ],
+    "hora": "10:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "SAN JUAN DE LOS TERREROS (PULPÍ) - CIRCUITO DE CARRERAS POPULARES DIPUTACIÓN DE ALMERÍA 2025",
+    "fecha": "2025-10-25",
+    "fecha_display": "25 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/san-juan-de-los-terreros-pulpi-circuito-de-carreras-populares-diputacion-de-almeria-2025---2391/",
+    "ciudad": "Pulpí",
+    "provincia": "Almería",
+    "distancias": [
+      {
+        "distancia_km": 4.9,
+        "precio": null
+      },
+      {
+        "distancia_km": 7.17,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      4.9,
+      7.17
+    ],
+    "hora": "18:30",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA - JORNADA 16. ZAFARRAYA - ACOMPAÑANTES DE LOS PERROS",
+    "fecha": "2025-10-25",
+    "fecha_display": "25 Oct 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2823",
+    "ciudad": "Zafarraya",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA - JORNADA 16. ZAFARRAYA - SEDE CANINA (AQUÍ SE INSCRIBE EL PARTICIPANTE QUE LLEVE EL PERRO)",
+    "fecha": "2025-10-25",
+    "fecha_display": "25 Oct 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2822",
+    "ciudad": "Zafarraya",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 16. ZAFARRAYA",
+    "fecha": "2025-10-25",
+    "fecha_display": "25 Oct 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2746",
+    "ciudad": "Zafarraya",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 17. IZNALLOZ",
+    "fecha": "2025-10-26",
+    "fecha_display": "26 Oct 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2747",
+    "ciudad": "Iznalloz",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "X MEMORIAL GUILLERMO VILLEGAS",
+    "fecha": "2025-10-26",
+    "fecha_display": "26 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/x-memorial-guillermo-villegas---2303/",
+    "ciudad": "Montillana",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "00:00",
+    "tipo": "Carrera Popular",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "XIX Prueba de Fondo \"La Hispanidad\"",
+    "fecha": "2025-10-26",
+    "fecha_display": "26 Oct 2025",
+    "link": "https://www.cruzandolameta.es/ver/xix-prueba-de-fondo-la-hispanidad---2260/",
+    "ciudad": "Santa Fe",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 10.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      10.0
+    ],
+    "hora": "11:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "X OPEN BTT VILLA DE CADIAR",
+    "fecha": "2025-11-02",
+    "fecha_display": "02 Nov 2025",
+    "link": "https://www.cruzandolameta.es/ver/x-open-btt-villa-de-cadiar---2304/",
+    "ciudad": "Cádiar",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "00:00",
+    "tipo": "Carrera Popular",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA - JORNADA 18. BENAMAUREL - ACOMPAÑANTES DE LOS PERROS",
+    "fecha": "2025-11-09",
+    "fecha_display": "09 Nov 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2825",
+    "ciudad": "Benamaurel",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA - JORNADA 18. BENAMAUREL - SEDE CANINA (AQUÍ SE INSCRIBE EL PARTICIPANTE QUE LLEVE EL PERRO)",
+    "fecha": "2025-11-09",
+    "fecha_display": "09 Nov 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2824",
+    "ciudad": "Benamaurel",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 18. BENAMAUREL",
+    "fecha": "2025-11-09",
+    "fecha_display": "09 Nov 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2748",
+    "ciudad": "Benamaurel",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "1ª MILLA URBANA SOLIDARIA.  BARRIO DE LA CRUZ",
+    "fecha": "2025-11-16",
+    "fecha_display": "16 Nov 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2710",
+    "ciudad": "Granada",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 19. ÍLLORA",
+    "fecha": "2025-11-16",
+    "fecha_display": "16 Nov 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2749",
+    "ciudad": "Íllora",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 20. ARENAS DEL REY",
+    "fecha": "2025-11-23",
+    "fecha_display": "23 Nov 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2750",
+    "ciudad": "Arenas Del Rey",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "39 MEDIA MARATÓN DE CÓRDOBA",
+    "fecha": "2025-11-30",
+    "fecha_display": "30 Nov 2025",
+    "link": "https://www.cruzandolameta.es/ver/39-media-maraton-de-cordoba---2345/",
+    "ciudad": "Córdoba",
+    "provincia": "Córdoba",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "10:00",
+    "tipo": "Ruta / Asfalto",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "II RALLY BTT XCO",
+    "fecha": "2025-11-30",
+    "fecha_display": "30 Nov 2025",
+    "link": "https://www.cruzandolameta.es/ver/ii-rally-btt-xco---2296/",
+    "ciudad": "Purullena",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": "00:00",
+    "tipo": "Carrera Popular",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "SENDEROS DE GRANADA- JORNADA 21. BENALÚA",
+    "fecha": "2025-11-30",
+    "fecha_display": "30 Nov 2025",
+    "link": "https://www.global-tempo.com/carreras.php?id=2751",
+    "ciudad": "Benalúa",
+    "provincia": "Granada",
+    "distancias": [],
+    "distancias_km": [],
+    "hora": null,
+    "tipo": "Carrera Popular",
+    "fuente": "GlobalTempo"
+  },
+  {
+    "nombre": "MEDIA MARATÓN SEVILLA - LOS PALACIOS 2025",
+    "fecha": "2025-12-14",
+    "fecha_display": "14 Dic 2025",
+    "link": "https://www.cruzandolameta.es/ver/media-maraton-sevilla-los-palacios-2025---2343/",
+    "ciudad": "Sevilla",
+    "provincia": "Sevilla",
+    "distancias": [
+      {
+        "distancia_km": 21.0,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      21.0
+    ],
+    "hora": "11:00",
+    "tipo": "Carrera Popular",
+    "fuente": "CruzandoLaMeta"
+  },
+  {
+    "nombre": "ULTRA TRAIL COSTA TROPICAL – UTCT 2026",
+    "fecha": "2026-01-31",
+    "fecha_display": "31 Ene 2026",
+    "link": "https://www.cruzandolameta.es/ver/ultra-trail-costa-tropical-utct-2026---2377/",
+    "ciudad": "Motril",
+    "provincia": "Granada",
+    "distancias": [
+      {
+        "distancia_km": 89.7,
+        "precio": null
+      }
+    ],
+    "distancias_km": [
+      89.7
+    ],
+    "hora": "06:00",
+    "tipo": "Trail / Montaña",
+    "fuente": "CruzandoLaMeta"
+  }
+]

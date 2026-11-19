@@ -1,0 +1,32 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Base de datos
+db/*.db
+db/*.sqlite
+db/*.sqlite3
+
+# Datos generados
+data/*.json
+data/*.csv
+data/*.xml
+
+# Archivos de logs
+*.log
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
